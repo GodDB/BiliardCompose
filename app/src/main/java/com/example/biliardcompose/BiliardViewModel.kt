@@ -1,4 +1,6 @@
 package com.example.biliardcompose
 
-class BiliardViewModel {
+import androidx.lifecycle.ViewModel
+
+class BiliardViewModel : ViewModel() {
 }

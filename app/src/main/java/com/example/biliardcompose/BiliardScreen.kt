@@ -1,4 +1,8 @@
 package com.example.biliardcompose
 
-class BiliardScreen {
+import androidx.compose.runtime.Composable
+
+@Composable
+fun BiliardScreen(viewModel: BiliardViewModel) {
+
 }
